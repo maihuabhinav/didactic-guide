@@ -1,5 +1,4 @@
-# didactic-guide
-## this is update
+## didactic-guide
 ### Solar System Exploration, 1950s – 1960s
 - [ ] Sun
 - [ ] Mercury
